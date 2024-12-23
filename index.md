@@ -13,12 +13,12 @@ Deyta is a comprehensive tool designed for data architecture teams to maintain a
 ## Getting Started
 
 1. **Access the Application**: Visit [deyta.com](http://deytadict.onrender.com) in your web browser.
-2. **Create an Account**: Sign up for a new account or log in if you already have one.
-3. **Create or Import a Data Dictionary**: Start a new project or import an existing dictionary from Excel.
+2. **Register an Account**: [Sign up](https://deytadict.onrender.com/register/) for a new account  or [log in](https://deytadict.onrender.com/login/) if you already have one.
+3. **Create or Import a Data Dictionary**: Start a new project or [import](https://deytadict.onrender.com/import) an existing dictionary from Excel.
 4. **Add Metadata**: Input metadata directly through the application interface.
-5. **Export to Excel**: Use the export feature to download your data dictionary for offline access or sharing.
-6. **Generate DDL**: Automatically create table DDL as well as table & column descriptions for update in your database
-7. **Generarate Conceptual Data Model diagrams**: Automatically create diagrams in either network graph or ERD format
+5. **Export to Excel**: Use the [export](https://deytadict.onrender.com/export) feature to download your data dictionary for offline access or sharing.
+6. **Generate DDL**: Automatically [create table DDL](https://deytadict.onrender.com/generate_ddl) as well as table & column descriptions for update in your database
+7. **Generarate Conceptual Data Model diagrams**: Automatically [create diagrams](https://deytadict.onrender.com/graph) in either network graph or ERD format
 
 ## Best Practices
 
@@ -27,4 +27,4 @@ Deyta is a comprehensive tool designed for data architecture teams to maintain a
 - Provide comprehensive descriptions for each metadata entry to enhance understanding.
 - Engage team members in maintaining the dictionary to promote ownership and accuracy.
 
-By leveraging Deyta, your team can ensure that your data dictionary is not only comprehensive but also a valuable resource for improving data governance and facilitating better decision-making across your organization.
+By leveraging [Deyta](http://deytadict.onrender.com), your team can ensure that your data dictionary is not only comprehensive but also a valuable resource for improving data governance and facilitating better decision-making across your organization.
