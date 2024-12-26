@@ -14,6 +14,7 @@ Deyta is a comprehensive tool designed for data architecture teams to maintain a
 
 1. **Access the Application**: Visit [deyta.com](http://deytadict.onrender.com) in your web browser.
 2. **Register an Account**: [Sign up](https://deytadict.onrender.com/register/) for a new account  or [log in](https://deytadict.onrender.com/login/) if you already have one.
+3. **Provide Metadata Repo details**: [Connect to your Repo](https://deytadict.onrender.com/metadatadb/connect). You can currently create a Metadata Repo in postgres, databricks or cratedb
 3. **Create or Import a Data Dictionary**: Start a new project or [import](https://deytadict.onrender.com/import) an existing dictionary from Excel.
 4. **Add Metadata**: Input metadata directly through the application interface.
 5. **Export to Excel**: Use the [export](https://deytadict.onrender.com/export) feature to download your data dictionary for offline access or sharing.
